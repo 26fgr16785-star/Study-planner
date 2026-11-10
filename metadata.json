@@ -1,0 +1,6 @@
+{
+  "name": "Muhammad Ali AI Smart Study Planner",
+  "description": "Full-Stack AI-Powered Student Study Management Web Application with timetable, quizzes, assignments, analytics, and intelligent assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
